@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/app_name">
+        <CheckBoxPreference
+            android:icon="@drawable/ic_3d_rotation_red_300_24dp"
+            android:summary="流量数据" />
+        <CheckBoxPreference
+            android:icon="@drawable/ic_3d_rotation_red_300_24dp"
+            android:summary="流量数据" />
+    </PreferenceCategory>
+</PreferenceScreen>
